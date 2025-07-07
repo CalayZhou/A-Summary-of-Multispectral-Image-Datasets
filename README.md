@@ -1,7 +1,7 @@
 # A Summary of Multispectral Image Datasets
 
 
-This document lists publicly available multispectral datasets across multiple vision tasks (e.g., image fusion, object detection, segmentation, tracking). 
+This document lists publicly available multispectral (RGBT) image datasets across multiple vision tasks (e.g., image fusion, object detection, segmentation, tracking). 
 
 ***
 
